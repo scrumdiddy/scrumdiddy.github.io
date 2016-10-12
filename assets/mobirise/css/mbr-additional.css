@@ -411,9 +411,16 @@ h6,
 .scrollToTop_wraper {
   opacity: 0 !important;
 }
-#header1-1 .mbr-section-title {
-  color: #475577;
+#index-header2-0 P {
+  text-align: center;
+  color: #ffffff;
 }
-#header1-1 .mbr-section-lead {
-  color: #28324e;
+#index-header2-0 H3 {
+  text-align: center;
+}
+#index-msg-box5-0 P {
+  text-align: center;
+}
+#index-msg-box5-0 H3 {
+  text-align: center;
 }
